@@ -1,8 +1,8 @@
-# Tetris IA
+# Tetris Client
 
 ## Description
 
-Tetris IA est une application web fonctionnelle développée avec **React 18** et stylisée avec **SCSS**.  
+Tetris Client est une application web fonctionnelle développée avec **React 18** et stylisée avec **SCSS**.  
 L'objectif principal de ce projet est de fournir une base de jeu Tetris entièrement fonctionnelle qui servira ultérieurement à entraîner une intelligence artificielle pour apprendre à jouer.  
 *Note : Le design n'est pas l'objectif principal, mais la fonctionnalité et la robustesse du jeu.*
 
