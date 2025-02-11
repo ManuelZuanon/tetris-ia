@@ -1,0 +1,15 @@
+# Dossier des modules Node pour le client
+/client/node_modules/
+
+# Dossiers de build ou de distribution du client
+/client/build/
+/client/dist/
+
+# Fichiers d'environnement (si vous en utilisez)
+client/.env
+
+# Fichiers log (npm, yarn, etc.)
+client/npm-debug.log*
+
+# Dossiers temporaires ou de cache (optionnel)
+client/.cache/
